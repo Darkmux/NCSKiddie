@@ -4,11 +4,18 @@ NCSKiddie (NetCat Script Kiddie) es una herramienta que fue desarrollada con el 
 ![alt text](https://github.com/Darkmux/NCSKiddie/blob/main/NCSKiddie.png)
 # PLATAFORMAS
 [√] Termux
+#
 [√] Kali Linux
+#
 [√] Parrot Sec
+#
 # INSTALACIÓN
 git clone https://github.com/Darkmux/NCSKiddie
+#
 cd NCSKiddie
+#
 chmod 777 ncskiddie.sh
+#
 bash ncskiddie.sh
+# Creado por Darkmux
 # ©WHITE HACKS
