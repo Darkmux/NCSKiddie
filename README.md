@@ -8,7 +8,10 @@ NCSKiddie (NetCat Script Kiddie) es una herramienta que fue desarrollada con el 
 [√] Kali Linux
 #
 [√] Parrot Sec
+# REQUISITOS
+[-] git
 #
+[-] netcat
 # INSTALACIÓN
 git clone https://github.com/Darkmux/NCSKiddie
 #
